@@ -5,4 +5,5 @@ result1 = sentiment("I love AI!")
 result2 = sentiment("I hate AI!")
 print(result1)
 print(result2)
-# [{'label': 'POSITIVE', 'score': 0.9998}]
+[{'label': 'POSITIVE', 'score': 0.9998650550842285}]
+[{'label': 'NEGATIVE', 'score': 0.9992353916168213}]

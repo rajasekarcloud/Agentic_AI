@@ -1,7 +1,7 @@
 from crewai import Agent, Task, Crew
 
 # Define an agent
-researcher = Agent(
+resiliency_advisor = Agent(
     role="Researcher",
     goal="Find and summarize AWS resiliency best practices",
     backstory="An expert cloud architect who keeps up with AWS trends."
